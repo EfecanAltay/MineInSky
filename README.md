@@ -14,3 +14,7 @@ ilk olarak STM32F407VG Kit olması gerek ve bir karakter ekran ve kabloların ve
 
 C kodunu kopyala ve micro c for arm için programındaki projene yapıştır
 ve cihazına kur son olarak çalışmasını gözlemle :)
+
+![Res1](https://github.com/EfecanAltay/MineInSky/blob/master/pictures/WIN_20160417_103411.JPG)
+![Res2](https://github.com/EfecanAltay/MineInSky/blob/master/pictures/WIN_20160417_103440.JPG)
+![Res3](https://github.com/EfecanAltay/MineInSky/blob/master/pictures/WIN_20160417_103518.JPG)
